@@ -1,6 +1,15 @@
 # AlphaFictionAssignmentSoftwareArt
 
-Credits: https://freedrama.net/aliens.html
+## Final Website Presentation of the Project ##
+
+https://alphaam.github.io/AlphaFictionAssignmentSoftwareArt/
+
+## Code for the Project ##
+
+https://colab.research.google.com/drive/1Le84lQ9dZlyOp0bdqa02TSlsyUoEEO0p?usp=sharing
+
+## Credits
+	 https://freedrama.net/aliens.html
 	
           https://www.scriptslug.com/
 
